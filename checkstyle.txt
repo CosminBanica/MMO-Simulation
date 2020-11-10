@@ -1,0 +1,12 @@
+Starting audit...
+[ERROR] /home/cosmin/Desktop/POO/proiect/etapa2/src/heroes/Knight.java:107:62: '200' is a magic number. [MagicNumber]
+[ERROR] /home/cosmin/Desktop/POO/proiect/etapa2/src/heroes/Knight.java:107:68: '30' is a magic number. [MagicNumber]
+[ERROR] /home/cosmin/Desktop/POO/proiect/etapa2/src/heroes/Knight.java:114:29: '200' is a magic number. [MagicNumber]
+[ERROR] /home/cosmin/Desktop/POO/proiect/etapa2/src/heroes/Knight.java:114:35: '30' is a magic number. [MagicNumber]
+[ERROR] /home/cosmin/Desktop/POO/proiect/etapa2/src/loaders/InputLoader.java:3: Using the '.*' form of import should be avoided - angels.*. [AvoidStarImport]
+[ERROR] /home/cosmin/Desktop/POO/proiect/etapa2/src/loaders/InputLoader.java:84:40: Parameter oldFileSystem should be final. [FinalParameters]
+[ERROR] /home/cosmin/Desktop/POO/proiect/etapa2/src/loaders/InputLoader.java:103:63: 'angels' hides a field. [HiddenField]
+[ERROR] /home/cosmin/Desktop/POO/proiect/etapa2/src/main/GamePlay.java:46:84: '20' is a magic number. [MagicNumber]
+[ERROR] /home/cosmin/Desktop/POO/proiect/etapa2/src/main/GamePlay.java:54:87: '20' is a magic number. [MagicNumber]
+Audit done.
+Checkstyle ends with 9 errors.
